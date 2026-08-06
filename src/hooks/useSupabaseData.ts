@@ -13,7 +13,7 @@ import {
 
 const isSupabaseConfigured = () => {
   const url = import.meta.env.VITE_SUPABASE_URL;
-  return url && url !== 'https://nulyaerrreoljttocyyz.supabase.co';
+  return url && url !== 'https://wfoulsbsciijydxyymec.supabase.co';
 };
 
 export function useOfficers() {
